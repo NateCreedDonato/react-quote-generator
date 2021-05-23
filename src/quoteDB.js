@@ -9,21 +9,20 @@ const quotes = [
     },
 
     {
-        "quote": "Don’t be intimidated by what you don’t know. That can be your greatest strength and ensure that you do things differently from everyone else.",
-        "author": "Sara Blakely"
+        "quote": "War does not decide who is right but who is left",
+        "author": "unknown"
     },
     {
         "quote": "If you keep on doing what you've always done, you will keep getting what you've always gotten.",
         "author": "Unknown"
     },
     {
-        "quote": " For God so loved the world that he gave his one and only Son, that whoever believes in him shall not perish but have eternal life. John 3:16",
-        "author": "Jesus Christ"
+        "quote": "Work hard until your haters ask if you are hiring.",
+        "author": "Nathaniel Donato"
     },
     {
         "quote": "The surest way to find your dream job is to create it.",
         "author": "Unknown"
-
     }
 ]
 
